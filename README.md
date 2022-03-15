@@ -24,7 +24,6 @@ This project creates three user-controller light and sound themes.
 - Controller Option A - Raspberry PI
   - Usually $30-50, 2022 chip shortage $100+
   - Perhaps Cameron has some spares at home?
-  - Depending on the quality of the audio board, this might be doable from a microcontroller dev board instead (arduino, etc)
   - Less complex script, but is a fully-functioning computer inside.
 - Controller Option B - Microprocessor (Arduino)
   - Arduino board, $30 [example](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/)
