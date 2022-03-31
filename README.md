@@ -43,3 +43,10 @@ This project creates three user-controller light and sound themes.
 The control program running on the Raspberry PI should have functionality similar to this.
 
 ![Script Flow](docs/script_excalidraw.png)
+
+## Wiring
+
+This is proposed wiring for a Feather M0 Express-based solution.
+
+![Wiring](docs/lights-and-sound-wiring_excalidraw.png)
+
